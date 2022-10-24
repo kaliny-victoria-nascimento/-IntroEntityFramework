@@ -1,0 +1,5 @@
+C:\Users\Kalin\Desktop\IntroEntityFramework\obj\Debug\net6.0\IntroEntityFramework.csproj.AssemblyReference.cache
+C:\Users\Kalin\Desktop\IntroEntityFramework\obj\Debug\net6.0\IntroEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalin\Desktop\IntroEntityFramework\obj\Debug\net6.0\IntroEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Kalin\Desktop\IntroEntityFramework\obj\Debug\net6.0\IntroEntityFramework.AssemblyInfo.cs
+C:\Users\Kalin\Desktop\IntroEntityFramework\obj\Debug\net6.0\IntroEntityFramework.csproj.CoreCompileInputs.cache
